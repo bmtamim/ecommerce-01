@@ -18,3 +18,6 @@ $ php artisan migrate
 
 ## Seed the databas
 $ php artisan db:seed
+
+## make a storage link , If nedded
+$ php artisan storage:link
